@@ -1,6 +1,9 @@
 maple_dmx_dimming
 =================
 
+stephan schulz
+www.antimodular.com
+
 using the maple mini to dim 16 LEDs via dmx
 
 arm micro controller maple: http://leaflabs.com/devices/

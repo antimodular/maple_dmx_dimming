@@ -1,4 +1,4 @@
-#maple_dmx_dimming
+# maple_dmx_dimming
 
 
 stephan schulz
@@ -12,7 +12,7 @@ using the maple mini to dim 16 LEDs via dmx
 - find links to the maple forum and related posts inside the code
 
 
-##Update:
+## Update:
 
 After many years i had to get this code working again. Surprisingly even in 2019 on macOS 10.12.6 i was able to run the MapleIDE v0.0.12.
 
